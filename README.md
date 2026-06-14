@@ -2,9 +2,45 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, desde que me entendo por gente, sou fascinado por tecnologia, o que me motivou a construir minha carreira nessa área.
-Atualmente, estou cursando Technical Support Engineer pela Ensign College University, um importante passo rumo à graduação em Bachelor's of Information Technology. Durante essa jornada, tenho aprendido conceitos incríveis que ampliam minhas habilidades e visão na área.
-Minha experiência mais recente foi como Supervisor de Suporte NOC na NBS Telecom, onde desenvolvi e apliquei conhecimentos avançados em redes de computadores, incluindo BGP, OSPF e MPLS. Além disso, possuo habilidades em desenvolvimento de software, com proficiência em React JS, Python. "[Artur Calderon Instagram](https://www.instagram.com/artur.jsx/)".
+Sou desenvolvedor e entusiasta de infraestrutura focado em DevOps, automação e ambientes cloud-native.
+
+ 
+
+Atualmente trabalho com Docker, Linux, pipelines CI/CD e deploy de aplicações full stack utilizando containers e ambientes self-hosted. Tenho experiência prática configurando servidores Linux, containers Docker, integrações backend/frontend e automações de entrega contínua.
+
+ 
+
+Também venho aprofundando meus estudos em Kubernetes, arquitetura de sistemas distribuídos e práticas modernas de infraestrutura escalável.
+
+ 
+
+Tenho grande interesse em:
+
+ 
+
+ DevOps 
+
+ Cloud Computing 
+
+ Kubernetes 
+
+ Platform Engineering 
+
+ Infraestrutura como Código 
+
+ Observabilidade 
+
+ Automação de Deploy 
+
+ 
+
+Tecnologias:
+
+ Docker • Linux • GitHub Actions • CI/CD • React • Flask • Node.js • PostgreSQL • Nginx • Cloudflare • Kubernetes (em estudo)
+
+ 
+
+Estou em busca de oportunidades para atuar com DevOps, Cloud e automação de infraestrutura. "[Artur Calderon Instagram](https://www.instagram.com/artur.jsx/)".
 
 <p align="left">
       <a href="https://www.linkedin.com/in/artur-calderon/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a>
