@@ -78,12 +78,11 @@ Meu objetivo é unir **desenvolvimento + infraestrutura + automação** para con
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=artur-calderon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=ArturCalderon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-calderon&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArturCalderon&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
-
 ---
 
 ## 🔥 Contribution Streak
