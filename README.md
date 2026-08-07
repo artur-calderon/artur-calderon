@@ -7,11 +7,11 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/ArturCalderon">
-    <img src="https://img.shields.io/github/followers/ArturCalderon?label=Followers&style=for-the-badge&logo=github" />
+  <a href="https://github.com/artur-calderon">
+    <img src="https://img.shields.io/github/followers/artur-calderon?label=Followers&style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/ArturCalderon">
-    <img src="https://img.shields.io/github/stars/ArturCalderon?label=Stars&style=for-the-badge&logo=github" />
+  <a href="https://github.com/artur-calderon">
+    <img src="https://img.shields.io/github/stars/artur-calderon?label=Stars&style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -66,7 +66,7 @@ Meu objetivo é unir **desenvolvimento + infraestrutura + automação** para con
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | 🚀 **DevOps Labs** | Laboratórios de Docker, CI/CD e infraestrutura | Docker · GitHub Actions · Linux |
-| 🏫 **Innovaplay** | Plataforma para gestão educacional | React · Flask · PostgreSQL |
+| 🏫 **Afirmeplay** | Plataforma para gestão educacional | React · Flask · PostgreSQL |
 | 🎵 **SoundShare** | Aplicação colaborativa de música | React · Node.js · Socket.io |
 | 🖥️ **Selfhosted Maniac** | Conteúdo sobre self-hosting, VPS e infraestrutura | Docker · Linux · VPS |
 
@@ -78,9 +78,9 @@ Meu objetivo é unir **desenvolvimento + infraestrutura + automação** para con
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturCalderon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=artur-calderon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCalderon&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-calderon&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -90,7 +90,7 @@ Meu objetivo é unir **desenvolvimento + infraestrutura + automação** para con
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ArturCalderon&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=artur-calderon&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -100,7 +100,7 @@ Meu objetivo é unir **desenvolvimento + infraestrutura + automação** para con
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ArturCalderon/ArturCalderon/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/artur-calderon/ArturCalderon/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -162,11 +162,11 @@ System Architecture
 
 <div align="center">
 
-<a href="https://github.com/ArturCalderon">
+<a href="https://github.com/artur-calderon">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/artur-calderon/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
